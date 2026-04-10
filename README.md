@@ -1,2 +1,2 @@
-Burada makine öğrenmesi kullanarak bir machine_learning projesi oluşturdum. Bunu yaparken kaggle'dan danışman hocamın önerdiği dataseti çekip onunla işlem yaptım. Koddaki açıklama kısımları kodda mevcuttur.
-Başarı,kayıp,ve accuracy değerleri dosyada mevcuttur.
+Makine öğrenmesi projem. Text to Text and Embedding
+BU projede makine öğrenmesinin temellerini kavramak amacıyla ekip arkadaşımla beraber %95 doğruluk oranına sahip basit bir excel metin çevirici uygulaması yaptık. BTK akademinin eğitimleri kapsamında Çanakkla OnSekiz Mart Üniversitesinde böyle bir proje yaptık bu projede hem makine öğrenmesinin temel kavramlarını öğrendik hem de gerekli kütüphaneler ve algoritmalarla gerçek hayat projesi yaptık. Bu proje sayesinde makine öğrenmesinin temellerini ve kavrayışını tamamen öğrendik.
